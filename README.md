@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5516991017754&text="/></a>
 </p> 
  
-<br><br><br>
+<br>
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
