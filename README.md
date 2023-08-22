@@ -3,7 +3,7 @@
 <p align="left"> 
   Meu nome é Edson, sou desenvolvedor back-end focado em C# .Net.<br>
   Aqui estão alguns dos meus projetos desenvolvidos para estudo pessoal e empresarial,<br>
-  focando sempre qualidade e utilização de boas técnicas.
+  focando sempre na qualidade e utilização de boas técnicas.
 </p>
 
 <p align="left">
